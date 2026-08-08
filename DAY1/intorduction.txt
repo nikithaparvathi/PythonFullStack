@@ -22,7 +22,7 @@ interpreted
 python executes code line by line.
 cross platform
 Python programs run on different operating systems without major changes.
-Highlevel
+Highlevel langauage
 Python hides complex hardware details from programmers.You don't need to manage memory manually like in C.
 oops
 This helps in creating reusable and organized code.
