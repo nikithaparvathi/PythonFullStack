@@ -6,11 +6,6 @@ elif stock > 0:
 else: 
     print("Out of stock") 
 
-
-
-
-
-
 stock = 10 
 premium_member = True 
 if stock > 0: 
